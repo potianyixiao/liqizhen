@@ -1,7 +1,27 @@
 ## 乐道内部教材展示
 
+```
+
 ### 乐道是一个自称道门实修组织的盈利性团体，主营业务有：法事（不怎么灵），四象丹道（魔改的太乙门功法和咸鱼买的野教材），南宫武法（吹嘘新手半年可以裸拳和国家级运动员切磋），道医（外聘的中医）
 ### 其运作方式类似传销，并喜欢对学员持续洗脑。
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+
 
 ### 以下是一位被长期洗脑的学员的发言：
 ![ijiangtao](https://pic.imgdb.cn/item/611ebb1d4907e2d39c3a1644.jpg)
